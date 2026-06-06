@@ -1,4 +1,6 @@
 # EX-NO-11-ELLIPTIC-CURVE-CRYPTOGRAPHY-ECC
+## NAME:AMMINENI MOKSHASREE
+## REG.NO:2305001001
 
 ## Aim:
 To Implement ELLIPTIC CURVE CRYPTOGRAPHY(ECC)
@@ -99,7 +101,9 @@ return 0;
 
 
 ## Output:
+<img width="790" height="466" alt="image" src="https://github.com/user-attachments/assets/5474cff9-169c-425e-8ee6-be2ac27ef975" />
 
+<img width="777" height="432" alt="image" src="https://github.com/user-attachments/assets/c79ec58d-f2be-432c-8a5f-14db9e865a5b" />
 
 
 ## Result:
